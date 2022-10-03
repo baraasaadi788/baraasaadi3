@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">baraasaadi2</string>
+    <string name="setting">setting</string>
+    <string name="about">about</string>
+    <string name="home">home</string>
+    <string name="logout">Logout</string>
+</resources>
